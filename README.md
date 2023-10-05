@@ -1,2 +1,2 @@
-# handle-excel
-python3 处理 excel 表格
+# tiny tools
+Summarize praticlal script when I help my friend. I hope more people can save time from automated programs.

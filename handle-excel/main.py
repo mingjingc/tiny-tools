@@ -1,13 +1,3 @@
-# import openpyxl
-#
-# wb = openpyxl.load_workbook("data.xlsx")
-# sheet_ranges = wb['运维项目-工时']
-# # str = sheet_ranges['I18'].value
-# # strs = str.split("】")
-# # print(strs[2].strip("【"))
-
-
-
 #coding=utf-8
 import sys
 import os
