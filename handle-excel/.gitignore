@@ -1,3 +1,5 @@
 venv/
 data.xlsx
 .idea/
+.DS_Store
+.vscode
